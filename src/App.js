@@ -2,7 +2,7 @@ import React from 'react';
 import logo from './assets/images/logo.svg';
 import chrome from './assets/images/chrome.svg';
 import spotify from './assets/images/spotify.svg';
-import './App.css';
+import './assets/css/App.css';
 
 function App() {
     return (
