@@ -42,5 +42,9 @@
     transform: rotate(360deg);
   }
 }
+.round-image {
+  max-width: 100%;
+  height: auto;
+}
 
 /*# sourceMappingURL=main.css.map */
